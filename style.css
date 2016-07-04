@@ -1,6 +1,6 @@
 body {
-  font-family: verdana;
-  background-color: #46C7C7; /*http://www.computerhope.com/cgi-bin/htmlcolor.pl?c=46C7C7*/
+font-family: 'Open Sans', sans-serif;
+background-color: #46C7C7; /*http://www.computerhope.com/cgi-bin/htmlcolor.pl?c=46C7C7*/
 }
 
 .header {
@@ -48,6 +48,8 @@ body {
 }
 
 .content {
-  margin: 50px;
+  margin-left: 150px;
+  margin-right: 150px;
+  margin-top: 50px;
   max-width: 800px;
 }
